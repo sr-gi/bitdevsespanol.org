@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminário Socrático 001"
+title: "Seminario Socrático 001"
 meetup: https://www.meetup.com/Bitcoin-Assembly/
 ---
 
