@@ -2,10 +2,8 @@
 layout: post
 type: socratic
 title: "Seminario Socrático 001"
-meetup: https://www.meetup.com/Bitcoin-Assembly/
+meetup: https://www.meetup.com/bitdevsenespanol/
 ---
-
-Organizado por [Bitcoin Assembly](https://twitter.com/bitcoinassembly)
 
 ## Announcements
 
