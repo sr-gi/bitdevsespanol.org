@@ -4,4 +4,4 @@ tagline: 'BitDevs es una comunidad para aquellos interesados en discutir y parti
 menu:
 
   - {name: 'Eventos', url: '/events'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/Bitcoin-Assembly/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/bitdevsenespanol/', external: true}
