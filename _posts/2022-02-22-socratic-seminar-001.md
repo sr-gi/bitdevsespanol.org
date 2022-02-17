@@ -9,16 +9,16 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 
 ## Advertencias
 
-- ¡Únase al grupo de Telegram "[Bitdevs en Español](https://t.me/bitdevsespanol)" para ayudar a organizar las reuniones!
-- Respetar la privacidad de los participantes.
-- Las reuniones son online, pero nunca se graban. Queremos que todos se sientan libres de participar y discutir los temas programados.
+- ¡Únete al grupo de Telegram "[Bitdevs en Español](https://t.me/bitdevsespanol)" para ayudar a organizar las reuniones!
+- Respeta la privacidad de los participantes.
+-  Las reuniones son online, pero nunca se graban. Queremos que todos se sientan libres de participar y discutir los temas programados.
 
 ## Bounties
 
 - [3 bounties de HRF para Lightning Tip Jar, Lightning Stable y e-cash: 1 BTC cada uno](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
-- [Bounty de Coinkite de $25k para implementación em React Native del NFC Card](https://twitter.com/nvk/status/1493985018409979906)
+- [Bounty de Coinkite de $25k para la implementación en React Native del NFC Card](https://twitter.com/nvk/status/1493985018409979906)
 - [1 BTC grant para una wallet Lightning con enfoque en privacidad](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
-- [Bounty "muy generoso" para cualquiera que encuentre un defecto grave en la implementación de OP_CTV](https://mobile.twitter.com/JeremyRubin/status/1477760236115034113)
+- [Bounty “muy generoso” para cualquiera que encuentre un defecto grave en la implementación de OP_CTV](https://mobile.twitter.com/JeremyRubin/status/1477760236115034113)
 
 ## Stats
 
@@ -31,9 +31,9 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 ## Bitcoin Core
 
 - [Un modelo para fee-bumping](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019627.html)
-- [Propuestas de mejorias en la política de RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019817.html)
+-  Propuestas de mejoras en la política de RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019817.html)
 - [PathCoin - Transferir el control de una UTXO de una forma trustless?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019809.html)
-- [Fondos Taproot "burned"](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
+- [Fondos Taproot “burned”](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
 - [Direciones Taproot reutilizables](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 - [Sugerencia para destruir periódicamente UTXOs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019860.html)
 - [Oposición a los covenants recursivos?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019885.html)
@@ -41,7 +41,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 ## Lightning
 
 - [Primer borrador de la especificación de PTLCs](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003377.html)
-- [Pagar una sola invoice para pagar dos nodos diferentes (ótimo para um servicio que cobra honorarios por ex)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003415.html)
+- [Pagar una sola invoice para pagar dos nodos diferentes (óptimo para un servicio que cobra honorarios por ex)](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-December/003415.html)
 - [Fee bumping automático (Eclair)](https://github.com/ACINQ/eclair/pull/2113)
 - [Bolt 12 en LND (?)](https://github.com/lightningnetwork/lnd/issues/5594#issuecomment-1042314431)
 - [Sensei - implementación de Lightning con BDK y LDK](https://twitter.com/JohnCantrell97/status/1491135343604957187)
@@ -50,7 +50,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
  
  - [CleanSpark pretende aumentar el output de la minería en más de 20% a través del enfriamiento por inmersión](https://www.coindesk.com/business/2021/12/09/cleanspark-aims-to-grow-bitcoin-mining-output-over-20-through-immersion-cooling/)
  - [Chip de minería de Intel](https://www.tomshardware.com/news/intel-to-unveil-bitcoin-mining-bonanza-mine-asic-at-chip-conference)
- - [4 mineros solitarios encontrando un bloque en 1 mes?](https://twitter.com/BitcoinErrorLog/status/1489191267884019715)
+ - [4 mineros solitarios encontraron un bloque en 1 mes?](https://twitter.com/BitcoinErrorLog/status/1489191267884019715)
 
 ## Misc
 
