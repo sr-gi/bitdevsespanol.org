@@ -2,10 +2,10 @@
 layout: post
 type: socratic
 title: "Seminario Socrático 001"
-meetup: https://www.meetup.com/bitdevsenespanol/
+meetup: https://www.meetup.com/pt-BR/bitdevsenespanol/events/283638608/
 ---
 
-Detalles sobre la ubicación del evento aquí: [https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/](https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/)
+Detalles sobre la ubicación del evento aquí: [https://www.meetup.com/pt-BR/bitdevsenespanol/events/283638608/](https://www.meetup.com/pt-BR/bitdevsenespanol/events/283638608/)
 
 ## Advertencias
 
