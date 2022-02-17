@@ -5,7 +5,7 @@ title: "Seminario Socrático 001"
 meetup: https://www.meetup.com/bitdevsenespanol/
 ---
 
-Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/](https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/)
+Detalles sobre la ubicación del evento aquí: [https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/](https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/)
 
 ## Advertencias
 
