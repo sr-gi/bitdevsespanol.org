@@ -46,7 +46,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [Bolt 12 en LND (?)](https://github.com/lightningnetwork/lnd/issues/5594#issuecomment-1042314431)
 - [Sensei - implementación de Lightning con BDK y LDK](https://twitter.com/JohnCantrell97/status/1491135343604957187)
 
-## Mineração
+## Minería
  
  - [CleanSpark pretende aumentar el output de la minería en más de 20% a través del enfriamiento por inmersión](https://www.coindesk.com/business/2021/12/09/cleanspark-aims-to-grow-bitcoin-mining-output-over-20-through-immersion-cooling/)
  - [Chip de minería de Intel](https://www.tomshardware.com/news/intel-to-unveil-bitcoin-mining-bonanza-mine-asic-at-chip-conference)
