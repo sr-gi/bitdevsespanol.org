@@ -19,6 +19,7 @@ Detalles sobre la ubicación del evento aquí: [https://www.meetup.com/pt-BR/bit
 - [Bounty de Coinkite de $25k para la implementación en React Native del NFC Card](https://twitter.com/nvk/status/1493985018409979906)
 - [1 BTC grant para una wallet Lightning con enfoque en privacidad](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
 - [Bounty “muy generoso” para cualquiera que encuentre un defecto grave en la implementación de OP_CTV](https://mobile.twitter.com/JeremyRubin/status/1477760236115034113)
+- [Bounty de 11M sats para integrar BIP 47 a BlueWallet](https://github.com/BlueWallet/BlueWallet/pull/4520) / [Entendiendo BIP-47](https://medium.com/@MattoshiN/bip47-reusable-payment-codes-for-hierarchical-deterministic-wallets-fbb0387595ac)
 
 ## Stats
 
@@ -37,6 +38,7 @@ Detalles sobre la ubicación del evento aquí: [https://www.meetup.com/pt-BR/bit
 - [Direciones Taproot reutilizables](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 - [Sugerencia para destruir periódicamente UTXOs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019860.html)
 - [Oposición a los covenants recursivos?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019885.html)
+- [CoinPool - transferencias offchain multi-party](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html)
 
 ## Lightning
 
