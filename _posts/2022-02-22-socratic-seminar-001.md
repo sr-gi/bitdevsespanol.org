@@ -32,7 +32,7 @@ Detalles sobre la ubicación del evento aquí: [https://www.meetup.com/pt-BR/bit
 ## Bitcoin Core
 
 - [Un modelo para fee-bumping](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019627.html)
--  Propuestas de mejoras en la política de RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019817.html)
+- [Propuestas de mejoras en la política de RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019817.html)
 - [PathCoin - Transferir el control de una UTXO de una forma trustless?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019809.html)
 - [Fondos Taproot “burned”](https://suredbits.com/taproot-funds-burned-on-the-bitcoin-blockchain/)
 - [Direciones Taproot reutilizables](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
