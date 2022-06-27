@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminario Socrático 002"
+title: "Seminario Socrático 003"
 meetup: https://www.meetup.com/pt-BR/bitdevsenespanol/events/286834115
 ---
 
